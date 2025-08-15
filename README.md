@@ -1,2 +1,3 @@
 # CURSO IA
-Curso IA ejercicios clase
+
+Mi primer repositorio
