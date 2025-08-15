@@ -1,2 +1,2 @@
-# PROYECTOS-ARGOS
+# CURSO IA
 Curso IA ejercicios clase
